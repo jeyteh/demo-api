@@ -1,0 +1,16 @@
+/Users/jey/Desktop/Thales Demo (Teh Jey Horng)/maven project/src/main/java/com/thales/demo/security/JwtService.java
+/Users/jey/Desktop/Thales Demo (Teh Jey Horng)/maven project/src/main/java/com/thales/demo/security/JwtFilter.java
+/Users/jey/Desktop/Thales Demo (Teh Jey Horng)/maven project/src/main/java/com/thales/demo/security/SecurityConfigurer.java
+/Users/jey/Desktop/Thales Demo (Teh Jey Horng)/maven project/src/main/java/com/thales/demo/repository/LogRepository.java
+/Users/jey/Desktop/Thales Demo (Teh Jey Horng)/maven project/src/main/java/com/thales/demo/dto/AuthResponse.java
+/Users/jey/Desktop/Thales Demo (Teh Jey Horng)/maven project/src/main/java/com/thales/demo/dto/AuthRequest.java
+/Users/jey/Desktop/Thales Demo (Teh Jey Horng)/maven project/src/main/java/com/thales/demo/api/AdditionController.java
+/Users/jey/Desktop/Thales Demo (Teh Jey Horng)/maven project/src/main/java/com/thales/demo/entities/BaseEntity.java
+/Users/jey/Desktop/Thales Demo (Teh Jey Horng)/maven project/src/main/java/com/thales/demo/api/LogsController.java
+/Users/jey/Desktop/Thales Demo (Teh Jey Horng)/maven project/src/main/java/com/thales/demo/dto/NumberDTO.java
+/Users/jey/Desktop/Thales Demo (Teh Jey Horng)/maven project/src/main/java/com/thales/demo/service/DemoService.java
+/Users/jey/Desktop/Thales Demo (Teh Jey Horng)/maven project/src/main/java/com/thales/demo/security/MyUserDetailService.java
+/Users/jey/Desktop/Thales Demo (Teh Jey Horng)/maven project/src/main/java/com/thales/demo/security/AuthenticationService.java
+/Users/jey/Desktop/Thales Demo (Teh Jey Horng)/maven project/src/main/java/com/thales/demo/api/LoginController.java
+/Users/jey/Desktop/Thales Demo (Teh Jey Horng)/maven project/src/main/java/com/thales/demo/entities/Log.java
+/Users/jey/Desktop/Thales Demo (Teh Jey Horng)/maven project/src/main/java/com/thales/demo/DemoApplication.java
